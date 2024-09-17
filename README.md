@@ -44,8 +44,6 @@ To systematically organize and manage information, MongoDB, a database system, i
 The visual design and layout are shaped by HTML and CSS,</br>
 For server-side logic, the system leverages ExpressJS,</br>
 NodeJS, a runtime environment executing JavaScript code beyond the browser.
-# Developer
-Hamad Younas
 # Course
 Software Engineering
 
